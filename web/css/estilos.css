@@ -1,0 +1,105 @@
+body{
+    background-image: url(/web/media/fondo.png);
+    size-adjust: auto;
+}
+
+.tit{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.return{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menu{
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.logoLogin{
+    height: 200px;
+    
+}
+
+.logo{
+    height: 10%;
+    width: 10%;
+    display: block; margin: auto;
+}
+
+.menu{
+    display: block;
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
+.nav{
+    display: block;
+    float: center;
+}
+
+.nav ul{
+    display: block;
+    list-style: none;
+    overflow: hidden;
+}
+
+
+nav ul li {
+    display: block;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;;
+    font-size: 20px;}
+
+nav ul li a {
+    display: block; 
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.acceder{
+    font-size: larger;
+}
+
+.whatsapp{
+    height: 10%;
+    width: 10%;
+}
+
+.registrarse{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.registro{
+    font-size: larger;
+}
+
+.objetivo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+.footer{
+    background-color: black;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.botones{
+    text-align: center;
+}
+
+.accederBoton{
+    font-size: large;
+    border-radius: 50px;
+}
+
+.menuAcceder{
+    text-align: center;
+}
